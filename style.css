@@ -1,0 +1,96 @@
+.bg-container {
+        background-image: url("https://img.freepik.com/free-photo/person-using-ai-tool-job_23-2150714236.jpg?w=900&t=st=1708017448~exp=1708018048~hmac=c83e1a39ece73a949b2432f228d2bf64fac3ad849f0b299e8789b5f395337923");
+        height: 120vh;
+        background-size: cover;
+      }
+.intro-card {
+        text-align: center;
+        background-color: white;
+        padding: 5px;
+        border-top-left-radius: 25px;
+        border-top-right-radius: 25px;
+      }
+.main-heading {
+        font-family: "Roboto";
+      }
+.paragraph {
+        font-family: "Roboto";
+      }
+.button {
+        color: white;
+        background-color: rgb(3, 6, 53);
+        width: 138px;
+        height: 36px;
+        border-width: 0px;
+        border-radius: 20px;
+      }
+.DetailedInformation{ 
+        background-image: url("https://img.freepik.com/free-photo/abstract-circular-blinds-oscillation-background-3d-rings-wavy-surface-geometric-elements-displacement_1217-2529.jpg?w=1380&t=st=1708017933~exp=1708018533~hmac=067f462911b0cfd18eb0f7239d92d49974999be33c86a10d64bd3087bc9fc4d9");
+        height: 100vh;
+        background-size: cover;
+      }
+      
+.DetailedInformation-heading {
+        color: rgb(255, 255, 255);
+        font-family: "Roboto";
+        font-size: 28px;
+        font-weight: bold;
+        padding: 24px;
+      }
+      
+.DetailedInformation-card-container {
+        background-color: white;
+        border-radius: 8px;
+        padding: 16px;
+        margin: 15px;
+      }
+      
+.DetailedInformation-card-heading {
+        color: #0f0e46;
+        font-family: "Roboto";
+        font-size: 23px;
+        font-weight: bold;
+      }
+      
+.DetailedInformation-card-description {
+        color: black;
+        font-family: "Roboto";
+        font-size: 20px;
+      }
+      
+.DetailedInformation-card-image {
+        width: 80px;
+        height: 100px;
+      }
+.detailed-view-bg-container {
+        background-image: url("https://img.freepik.com/free-photo/abstract-circular-blinds-oscillation-background-3d-rings-wavy-surface-geometric-elements-displacement_1217-2529.jpg?w=1380&t=st=1708017933~exp=1708018533~hmac=067f462911b0cfd18eb0f7239d92d49974999be33c86a10d64bd3087bc9fc4d9");
+        height: 100vh;
+        background-size: cover;
+      }
+.detailed-view-heading {
+        color: white;
+        font-family: "Roboto";
+        font-size: 28px;
+        font-weight: bold;
+        padding: 24px;
+      }
+.detailed-view-card-container {
+        background-color: white;
+        border-bottom-right-radius: 8px;
+        border-bottom-left-radius: 8px;
+        margin: 24px;
+      }
+.detailed-view-card-heading {
+        color: #0f0e46;
+        font-family: "Roboto";
+        font-size: 23px;
+        font-weight: bold;
+      }
+.detailed-view-card-description {
+        color: #000000;
+        font-family: "Roboto";
+        font-size: 25px;
+      }
+.detailed-view-card-text-container {
+        padding: 16px;
+      }
